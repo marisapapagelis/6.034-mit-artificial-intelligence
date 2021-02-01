@@ -1,4 +1,4 @@
-# 6.034 Artificial Intelligence
+# 6.034 MIT Artificial Intelligence Labs
 
 This repository contains all the labs from MIT's Artificial Intelligence Course (6.034) in Fall 2020. 
 
